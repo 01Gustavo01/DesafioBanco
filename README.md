@@ -1,6 +1,6 @@
 Esse código representa um sistema simples de gerenciamento de conta bancária. Ele inicia com um cliente chamado Gustavo, que tem uma conta corrente com um saldo inicial de R$ 500. O programa permite ao usuário realizar algumas operações básicas:
 
-1Consultar saldo.
+1Consultar saldo.</br>
 2Receber valor (adicionar dinheiro à conta).
 3Transferir valor para outra conta.
 4Sair do sistema.
